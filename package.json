@@ -5,7 +5,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node server.js",
-    "watch": "node --watch server.js"
+    "watch": "node --watch server.js",
+    "dev-ders5.5": "node server-ders5.5.js",
+    "watch-ders5.5": "node --watch server-ders5.5.js"
   },
   "author": "",
   "license": "ISC",
